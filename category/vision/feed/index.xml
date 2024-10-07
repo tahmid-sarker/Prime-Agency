@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vision | Prime Agency</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A Trusted Agency Like No Other!</description>
+	<lastBuildDate>Sun, 06 Oct 2024 16:52:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/10/logo.jpg</url>
+	<title>Vision | Prime Agency</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What makes a life happy?</title>
+		<link>./../../../what-makes-a-life-happy/index.html</link>
+					<comments>./../../../what-makes-a-life-happy/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 05 Oct 2024 09:22:12 +0000</pubDate>
+				<category><![CDATA[Vision]]></category>
+		<category><![CDATA[vision]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=99</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+								<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><!-- divi:paragraph -->
+<p>What is Lorem Ipsum?</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:paragraph -->
+<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:heading -->
+<h2 class="wp-block-heading">Why do we use it?</h2>
+<!-- /divi:heading -->
+
+<!-- divi:paragraph -->
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:heading -->
+<h2 class="wp-block-heading">Where does it come from?</h2>
+<!-- /divi:heading -->
+
+<!-- divi:paragraph -->
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &#8220;de Finibus Bonorum et Malorum&#8221; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &#8220;Lorem ipsum dolor sit amet..&#8221;, comes from a line in section 1.10.32.</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:paragraph -->
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &#8220;de Finibus Bonorum et Malorum&#8221; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:heading -->
+<h2 class="wp-block-heading">Where can I get some?</h2>
+<!-- /divi:heading -->
+
+<!-- divi:paragraph -->
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td rowspan="2"></td><td rowspan="2">paragraphswordsbyteslists</td><td></td><td>Start with &#8216;Lorem<br>ipsum dolor sit amet&#8230;&#8217;</td></tr><tr><td></td><td></td></tr></tbody></table></figure>
+<!-- /divi:table -->
+
+<!-- divi:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /divi:separator -->
+
+<!-- divi:paragraph -->
+<p><strong>Donate:</strong>&nbsp;If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated &#8211; click&nbsp;<a target="_blank" href="https://www.lipsum.com/donate" rel="noreferrer noopener">here</a>&nbsp;to donate using PayPal. Thank you for your support. Donate bitcoin: 16UQLq1HZ3CNwhvgrarV6pMoA2CDjb4tyF</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /divi:separator -->
+
+<!-- divi:paragraph -->
+<p><strong>Translations:</strong>&nbsp;Can you help translate this site into a foreign language ? Please email us with details if you can help.</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /divi:separator -->
+
+<!-- divi:paragraph -->
+<p>There is a set of mock banners available&nbsp;<a href="https://www.lipsum.com/banners">here</a>&nbsp;in three colours and in a range of standard banner sizes:<br><a href="https://www.lipsum.com/banners"></a><a href="https://www.lipsum.com/banners"></a><a href="https://www.lipsum.com/banners"></a></p>
+<!-- /divi:paragraph -->
+
+<!-- divi:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /divi:separator -->
+
+<!-- divi:paragraph -->
+<p><a target="_blank" rel="noreferrer noopener" href="https://github.com/traviskaufman/node-lipsum">NodeJS</a>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://code.google.com/p/pypsum/">Python Interface</a>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://gtklipsum.sourceforge.net/">GTK Lipsum</a>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://github.com/gsavage/lorem_ipsum/tree/master">Rails</a>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://github.com/cerkit/LoremIpsum/">.NET</a></p>
+<!-- /divi:paragraph -->
+
+<!-- divi:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /divi:separator -->
+
+<!-- divi:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /divi:separator -->
+
+<!-- divi:heading {"level":3} -->
+<h3 class="wp-block-heading">The standard Lorem Ipsum passage, used since the 1500s</h3>
+<!-- /divi:heading -->
+
+<!-- divi:paragraph -->
+<p>&#8220;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&#8221;</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:heading {"level":3} -->
+<h3 class="wp-block-heading">Section 1.10.32 of &#8220;de Finibus Bonorum et Malorum&#8221;, written by Cicero in 45 BC</h3>
+<!-- /divi:heading -->
+
+<!-- divi:paragraph -->
+<p>&#8220;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&#8221;</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:heading {"level":3} -->
+<h3 class="wp-block-heading">1914 translation by H. Rackham</h3>
+<!-- /divi:heading -->
+
+<!-- divi:paragraph -->
+<p>&#8220;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?&#8221;</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:heading {"level":3} -->
+<h3 class="wp-block-heading">Section 1.10.33 of &#8220;de Finibus Bonorum et Malorum&#8221;, written by Cicero in 45 BC</h3>
+<!-- /divi:heading -->
+
+<!-- divi:paragraph -->
+<p>&#8220;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&#8221;</p>
+<!-- /divi:paragraph -->
+
+<!-- divi:heading {"level":3} -->
+<h3 class="wp-block-heading">1914 translation by H. Rackham</h3>
+<!-- /divi:heading -->
+
+<!-- divi:paragraph -->
+<p>&#8220;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.&#8221;</p>
+<!-- /divi:paragraph --></div>
+			</div>
+			</div>			
+				
+				
+				
+				
+			</div>		
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../what-makes-a-life-happy/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
